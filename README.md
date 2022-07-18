@@ -14,7 +14,8 @@ Examples:
 
 > **Sync**
 <br>
-[](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
+
+![](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
 
 
 <br>
@@ -22,7 +23,11 @@ Examples:
 
 > **Stream**
 <br>
-[](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
+
+![](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
+
+
+![](http://damien.pobel.fr/images/youtube-video-github.gif)
 
 
 <br>

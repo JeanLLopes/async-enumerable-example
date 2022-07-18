@@ -22,7 +22,7 @@ Examples:
 
 **Stream**
 
-![](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
+![](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/stream.gif)
 
 
 <br>

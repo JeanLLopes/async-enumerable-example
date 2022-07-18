@@ -12,16 +12,16 @@ Using .net 6.0 and follow libraries:
 
 Examples:
 
-> **Sync**
-<br>
+**Sync**
+
 ![](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
 
 
 <br>
 
 
-> **Stream**
-<br>
+**Stream**
+
 ![](https://github.com/JeanLLopes/async-enumerable-example/blob/main/docs/sync.gif)
 
 
